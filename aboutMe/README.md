@@ -1,7 +1,7 @@
 # Mason Hiromoto
 
 ## Who Am I?
-My name is Mason Hiromoto
+My name is Mason Hiromoto and I'm a 2nd year ECE major at the University of Washington
 ## Experience
 - Bishop Museum NHEP Intern Molecular Biodiversity Lab
 ## Projects
